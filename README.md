@@ -5,17 +5,28 @@ This program is designed to run concurrently with a separate main file that cont
 
 An example input/output follows:
 
-Input:                        Sorted Output:
-2mlJuLHuLDk0PNM               2mlJuLHuLDk0PNM
-4WAcBJXWuwtKGvi               3L5PlEg9XR3OwJQ
-Sl5ncqLdbr6vSLe               4WAcBJXWuwtKGvi
-jLEsFUaJvgKmFuh               9DRdhXpKqvi8zay
-3L5PlEg9XR3OwJQ               erR1Py4KLSGNXf9
-erR1Py4KLSGNXf9               jLEsFUaJvgKmFuh
-9DRdhXpKqvi8zay               BI09MQkKt1AmUbo
-OXyH9Sa0jV2Ew07               OXyH9Sa0jV2Ew07
-XkxuRhnpBdPJR0b               Sl5ncqLdbr6vSLe
-BI09MQkKt1AmUbo               XkxuRhnpBdPJR0b
+INPUT:
+2mlJuLHuLDk0PNM
+4WAcBJXWuwtKGvi
+Sl5ncqLdbr6vSLe
+jLEsFUaJvgKmFuh
+3L5PlEg9XR3OwJQ
+erR1Py4KLSGNXf9
+9DRdhXpKqvi8zay
+OXyH9Sa0jV2Ew07
+XkxuRhnpBdPJR0b
+BI09MQkKt1AmUbo
 
+SORTED OUTPUT:
+2mlJuLHuLDk0PNM
+3L5PlEg9XR3OwJQ
+4WAcBJXWuwtKGvi
+9DRdhXpKqvi8zay
+erR1Py4KLSGNXf9
+jLEsFUaJvgKmFuh
+BI09MQkKt1AmUbo
+OXyH9Sa0jV2Ew07
+Sl5ncqLdbr6vSLe
+XkxuRhnpBdPJR0b
 
 These numbers represent astronomically large values that exceed the maximum Java value.
